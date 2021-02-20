@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://hqztc.github.io/hqztc.github.io/pl/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hqztc.github.io/hqztc.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://hqztc.github.io/hqztc.github.io/pl/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://hqztc.github.io/hqztc.github.io/pl/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hqztc.github.io/hqztc.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://hqztc.github.io/hqztc.github.io/pl/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://hqztc.github.io/hqztc.github.io/pl/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hqztc.github.io/hqztc.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://hqztc.github.io/hqztc.github.io/pl/tags/"
+                />
+  </url>
+  
+</urlset>
